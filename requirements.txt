@@ -1,0 +1,5 @@
+flask
+vanna[snowflake]
+vanna[postgres]
+db-dtypes
+python-dotenv
